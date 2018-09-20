@@ -13,7 +13,7 @@ Description: We provide time series estimates for 188 countries in the world fro
 Here are a few examples to get you started.
 
 Disease: HIV
-1. ### Time series plot features:###
+1. #### Time series plot features:
   + Measure: eg., _Expenditure, in Million_
   + Category(s): eg., _Total Health spend on HIV/AIDS prevention, care and treatment_
   + Country: eg., _Tanzania_ (ISO3 | NAME)
@@ -23,7 +23,7 @@ Disease: HIV
   + Show model output: eg., _mean_, _Uncertainty_
 ![](time-series.gif)
 
-1. ### Map features:###
+1. #### Map features:
   + Measure: eg., _Expenditure, in Million_
   + Category: eg., _Out-of-pocket_
   + Pick 1 model
