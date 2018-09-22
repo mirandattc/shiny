@@ -1,7 +1,7 @@
 # Shiny app: Global disease health expenditure
 *Note: This app is not perfect. It's still a work in progress.*
 
-Description: We provide time series estimates for 188 countries in the world from 2000-2015 to evaluate how much countries progress throughout time on their health expenditure across different program areas.
+###Description:### We provide time series estimates for 188 countries in the world from 2000-2015 to evaluate how much countries progress throughout time on their health expenditure across different program areas.
 
  + Project: Tracking global health expenditure on the big 3 communicable diseases, namely HIV/AIDS, Malaria, Turberculosis
  + Purpose: To visualize/understand/vet the model output.
@@ -12,7 +12,6 @@ Description: We provide time series estimates for 188 countries in the world fro
 ### Demo
 Here are a few examples to get you started.
 
-Disease: HIV
 1. #### Time series plot features:
   + Measure: eg., _Expenditure, in Million_
   + Category(s): eg., _Total Health spend on HIV/AIDS prevention, care and treatment_
